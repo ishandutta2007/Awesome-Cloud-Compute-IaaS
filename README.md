@@ -61,9 +61,9 @@ Below is a curated table of leading proprietary and hosted cloud compute provide
 
 Open-source cloud compute platforms provide private cloud virtualization, hybrid cloud orchestration, hyperconverged infrastructure (HCI), and Kubernetes-native VM runtimes.
 
-Projects are sorted below by **GitHub Star Count** (descending).
+Projects are sorted below by **GitHub Stars_Count** (descending).
 
-| Repository & Project | Description & Details | License | Stars |
+| Repository & Project | Description & Details | License | GitHub_Stars |
 | :--- | :--- | :--- | :--- |
 | **[OpenStack](https://github.com/openstack)** | **Dominant open-source IaaS cloud framework.** Features modular components (Nova compute, Neutron networking, Cinder block storage, Keystone identity). | Apache-2.0 | [![OpenStack Stars](https://img.shields.io/badge/OpenStack-25,000+-red?style=social&logo=github)](https://github.com/openstack) |
 | **[Terraform](https://github.com/hashicorp/terraform)** | **Industry-standard Infrastructure-as-Code (IaC)** tool for declaratively provisioning and managing multi-cloud compute resources across AWS, Azure, GCP, and OpenStack. | BSL 1.1 | [![Terraform Stars](https://img.shields.io/github/stars/hashicorp/terraform?style=social&color=white)](https://github.com/hashicorp/terraform/stargazers) |
