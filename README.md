@@ -61,7 +61,7 @@ Below is a curated table of leading proprietary and hosted cloud compute provide
 
 Open-source cloud compute platforms provide private cloud virtualization, hybrid cloud orchestration, hyperconverged infrastructure (HCI), and Kubernetes-native VM runtimes.
 
-Projects are sorted below by **GitHub Stars_Count** (descending).
+Projects are sorted below by **GitHub_Stars_Count** (descending).
 
 | Repository & Project | Description & Details | License | GitHub_Stars |
 | :--- | :--- | :--- | :--- |
